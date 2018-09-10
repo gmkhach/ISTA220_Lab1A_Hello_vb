@@ -10,7 +10,7 @@
 
     <Grid>
         <TextBlock x:Name="TextBlock" HorizontalAlignment="Left" Margin="25,30,0,0" Text="Please enter your name" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24"/>
-        <TextBox x:Name="userName" HorizontalAlignment="Left" Margin="25,90,0,0" Text="TextBox" VerticalAlignment="Top" RenderTransformOrigin="-0.514,-0.156" Width="248"/>
+        <TextBox x:Name="userName" HorizontalAlignment="Left" Margin="25,90,0,0" Text="" VerticalAlignment="Top" RenderTransformOrigin="-0.514,-0.156" Width="248"/>
         <Button x:Name="ok" Content="OK" HorizontalAlignment="Left" Margin="289,90,0,0" VerticalAlignment="Top" Width="50" FontSize="15"/>
 
     </Grid>
